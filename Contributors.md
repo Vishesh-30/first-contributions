@@ -8,6 +8,7 @@
 - [Harsh Kumar Singh](https://github.com/harshsingh510)
 -[Saksham Paliwal](https://github.com/sakshampaliwal)
 - [Taimur Shahzad Gill](https://github.com/taymuur)
+- [Manish Pokhrel](https://github.com/manishpoko)
 - [Ayush Aryan](https://github.com/Ayush-Aryan-0)
 -[Samyak Sheokar](https://github.com/SamyakSheokar2203)
 -[Tharuka Wijekoon](https://github.com/tharuka01)
